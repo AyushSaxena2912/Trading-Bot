@@ -5,6 +5,7 @@ __pycache__/
 venv/
 *.egg-info/
 .pytest_cache/
+.DS_Store
 
 # Keep the logs directory in git but ignore rotated backups if desired.
 logs/*.log.*
